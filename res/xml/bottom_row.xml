@@ -3,6 +3,7 @@
   <key width="1.8" key0="ctrl" key1="loc switch_greekmath" key2="meta" key4="switch_numeric"/>
   <key width="1.2" key0="fn" key1="alt" key2="change_method" key3="switch_emoji" key4="config"/>
   <key width="4.0" key0="space" key1="switch_programming" edgekeys="true"/>
-  <key width="1.2" key1="up" key2="right" key3="left" key4="down" edgekeys="true"/>
-  <key width="1.8" key0="enter" key2="action"/>
+  <key width="1.2" key0="left"/>
+  <key width="1.2" key0="down" key1="up"/>
+  <key width="1.2" key0="right"/>
 </row>
